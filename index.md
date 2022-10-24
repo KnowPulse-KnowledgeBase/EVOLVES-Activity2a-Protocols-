@@ -3,14 +3,14 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "Lesson Title"
+title: "EVOLVES Activity 2a Protocols"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to..."
+short-purpose: "This lesson will show protocols for analyses ____"
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
-who: "Pulse Crop Researchers focused on variation data."
+who: "Pulse Crop Researchers ______."
 
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
