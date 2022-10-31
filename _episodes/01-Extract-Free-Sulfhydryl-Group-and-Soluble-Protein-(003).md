@@ -14,6 +14,8 @@ keypoints:
 - ""
 ---
 
+# Preparing Standard Curves for Determining Free Sulfhydryl (SH) Concentration
+
 ## A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH.
 2. To make 0.1M NaPO4: Weigh 1.1694g NaH2PO4 and 5.9181g NaHPO4 in a 300mL beaker.
@@ -72,3 +74,10 @@ keypoints:
 8.	Record absorbance readings at 412nm and enter data into Microsoft Excel. Subtract the blank from all absorbance values recorded.
 ![Screenshot of main code listing](../fig/PART-1-figure1.1.jpg)
  
+*Figure 1.1: Example of data collected on Microsoft Excel of NAC Standard Curve*
+9. Select data of samples A412(nm) and samples A412 subtracted blan(nm) and use scatter plot graph. Add linear trendlines for absorbance values and display equation and R-squared values on chart.
+
+![Screenshot of main code listing](../fig/PART-1-figure1.2.jpg)
+*Figure 1.2: Example of [NAC] Standard Curve Equation Generated Using Microsoft Excel
+
+# Preparing Standard Curves for Determining Soluble Protein Concentration
