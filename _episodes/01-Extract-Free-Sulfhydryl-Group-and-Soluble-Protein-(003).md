@@ -69,4 +69,6 @@ keypoints:
 
 6.	Incubate test tubes in dark for 10mins at room temperature using a bucket and a towel to cover test tubes. 
 7.	Turn on spectrophotometer. 
-8.	Record absorbance readings at 412nm and enter data into Microsoft Excel. Subtract the blank from all absorbance values recorded. 
+8.	Record absorbance readings at 412nm and enter data into Microsoft Excel. Subtract the blank from all absorbance values recorded.
+![Screenshot of main code listing](../fig/PART-1-figure1.1.jpg)
+ 
