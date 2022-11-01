@@ -87,7 +87,11 @@ Where 650µL is total of protein extract and NaPO4 buffer according to (Mession,
 2. To prepare unheated lentil extract dilution (1:100x): Pipette 10µL of unheated lentil extract and 990µL of 0.1M NaPO4 buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different unheated lentil extract genotypes
 
 ### B. Preparation of BCA Working Reagent (WR)
-1. Refer to the following procedure 2.B on page 3.
+1. The following formula was used to determine the total volume of WR required: 
+(# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required 
+2. Pipette 2.0mL of WR for each sample in the test-tube procedure
+3. Mix WR and diluted Bovine Serum Albumin (BSA) Standards thoroughly by flicking test tube back and forth with index finger. 
+
 
 ### C. Experimental Test-Tube Procedure 
 1. Turn on the waterbath and set temperature to 37°C
