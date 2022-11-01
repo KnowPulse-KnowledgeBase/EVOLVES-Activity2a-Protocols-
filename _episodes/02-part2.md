@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Preparing Standard Curves for Determining Free Sulfhydryl (SH) and Soluble Protein"
+title: "Part 2: "
 teaching: 
 exercises: 
 questions:
