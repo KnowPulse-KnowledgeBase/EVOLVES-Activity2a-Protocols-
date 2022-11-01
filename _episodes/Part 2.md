@@ -62,10 +62,44 @@ Where 650µL is total of protein extract and NaPO4 buffer according to (Mession,
 
 *Figure 4.1: Example of lentil genotype A412(nm) values*
 
-$$ 
-y = 0.0156x-0.0055; R^2=0.9946
-$$
+![Screenshot of main code listing](../fig/PART-1-figure4.png)
 
-$$
-x =〖FreeSH〗_{avg}={(y+0.0055)}/{(0.0156)}
-$$
+## Determining Soluble Protein Concentration
+
+### A. Preparation of Lentil Extract Sample Dilutions (1:100x)
+1. To prepare heated lentil extract dilution (1:100x): Pipette 10µL of heated lentil extract and 990µL of 0.1M NaPO4 buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different heated lentil extract genotypes
+2. To prepare unheated lentil extract dilution (1:100x): Pipette 10µL of unheated lentil extract and 990µL of 0.1M NaPO4 buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different unheated lentil extract genotypes
+
+### B. Preparation of BCA Working Reagent (WR)
+1. Refer to the following procedure 2.B on page 3.
+
+### C. Experimental Test-Tube Procedure 
+1. Turn on the waterbath and set temperature to 37°C
+2. Pipette 100µL of lentil extract protein dilution (1:100x) for both unheated and heated versions into clean glass test tubes. 
+3. To create the blank, pipette 100µL of 0.1M NaPO4 buffer (pH 7.5) into clean glass test tube, create triplicates of the blank.
+4. Pipette 2.0 mL of WR into each glass test tube 
+5. Thoroughly mix the protein extract and WR by flicking the test tube back and forth with index finger.
+6. Place test tubes in waterbath and incubate test tubes at 37°C for 30mins
+7. Turn spectrophotometer on and set wavelength to 562nm. 
+8. Cool all tubes to room temperature 
+9. Record the absorbance of the samples at 562nm after 30 mins and subtract the average 562nm absorbance measurements of the Blank standard replicates from absorbance values of all other unknown sample replicates  
+10. Select the data of all samples A562(nm) and A562 subtracted blank(nm) and use scatter plot graph. Add linear trendlines and display equation and R-squared values on chart.
+
+### D. Calculate Soluble Protein concentration in mg BSA equivalent/mL extract 
+1. Use the standard curve equation and subtracted blank absorbance values to calculate soluble protein concentration 
+Sample Calculation of Soluble Protein Concentration: 
+
+![Screenshot of main code listing](../fig/PART-1-figure.5.1.png)
+
+*Figure 5.1: Example of lentil genotype A562(nm) values*
+
+![Screenshot of main code listing](../fig/PART-1-figure.5.png)
+
+***BSA equivalents are expressed in µM ∴ 1 mL = 1000µL**
+**Multiplied by 100 to determine mg/mL soluble protein with appropriate dilution factor (1:100x dilution)**
+
+### Calculating Free SH Group Concentration using Soluble Protein mg/mL basis
+
+![Screenshot of main code listing](../fig/PART-1-figure.6.png)
+
+**This equation accounts for the same protein concentration of lentil genotypes and not the volume**
