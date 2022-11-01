@@ -1,3 +1,19 @@
+---
+title: "Part 1: Preparing Standard Curves for Determining Free Sulfhydryl (SH) and Soluble Protein"
+teaching: 
+exercises: 
+questions:
+- ""
+- ""
+- ""
+objectives:
+- ""
+keypoints:
+- ""
+- ""
+- ""
+---
+
 ## Preparing Lentil Extract
 
 ### A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
