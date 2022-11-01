@@ -107,7 +107,9 @@ keypoints:
 4. Record blank absorbance values first at 562nm. Then record absorbance of any other standard. Subtract the average 562nm absorbance measurements of the Blank standard replicates from absorbance values of all other unknown sample replicates  
 5. Select the data of all samples A562(nm) and A562 subtracted blank(nm) and use scatter plot graph. Add linear trendlines and display equation and R-squared values on chart.
 ![Screenshot of main code listing](../fig/PART-1-figure.2.1.png)
+
 *Figure 2.1: Example of data collected on Microsoft Excel of BSA Soluble Protein Standard Curve, Trial #1*
 
 ![Screenshot of main code listing](../fig/PART-1-figure2.2.png)
+
 *Figure 2.2: Example of BSA Protein Assay Standard Curve Equation Generated Using Microsoft Excel*
