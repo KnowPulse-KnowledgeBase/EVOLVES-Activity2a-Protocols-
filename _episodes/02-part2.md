@@ -111,8 +111,8 @@ Sample Calculation of Soluble Protein Concentration:
 
 ![Screenshot of main code listing](../fig/PART-1-figure.5.png)
 
-***BSA equivalents are expressed in µM ∴ 1 mL = 1000µL**
-**Multiplied by 100 to determine mg/mL soluble protein with appropriate dilution factor (1:100x dilution)**
+***a. BSA equivalents are expressed in µM ∴ 1 mL = 1000µL**
+**b. Multiplied by 100 to determine mg/mL soluble protein with appropriate dilution factor (1:100x dilution)**
 
 ### Calculating Free SH Group Concentration using Soluble Protein mg/mL basis
 
