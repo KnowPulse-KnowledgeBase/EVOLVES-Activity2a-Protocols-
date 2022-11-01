@@ -78,6 +78,7 @@ keypoints:
 9. Select data of samples A412(nm) and samples A412 subtracted blan(nm) and use scatter plot graph. Add linear trendlines for absorbance values and display equation and R-squared values on chart.
 
 ![Screenshot of main code listing](../fig/PART-1-figure1.2.jpg)
+
 *Figure 1.2: Example of [NAC] Standard Curve Equation Generated Using Microsoft Excel*
 
 ## Preparing Standard Curves for Determining Soluble Protein Concentration
