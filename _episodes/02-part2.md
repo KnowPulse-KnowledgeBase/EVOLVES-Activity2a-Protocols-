@@ -16,10 +16,10 @@ keypoints:
 
 ## Preparing Lentil Extract
 
-### A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
+### A. Reagent Preparation: Preparing 250mL of 0.1M NaPO<sub>4</sub> (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH
-2. To make 0.1M NaPO4: Weigh 1.1694g NaH2PO4 and 5.9181g NaHPO4 in a 300mL beaker
-3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH<sub>2</sub>O 
+2. To make 0.1M NaPO<sub>4</sub>: Weigh 1.1694g NaH<sub>2</sub>PO<sub>4</sub> and 5.9181g NaHPO<sub>4</sub> in a 300mL beaker
+3. Dissolve NaH<sub>2</sub>PO<sub>4</sub> and NaHPO4 using approximately 200mL dH<sub>2</sub>O 
 4. Adjust pH=7.5 using 0.1N NaOH 
 5. Transfer solution into 250mL volumetric flask and fill dH<sub>2</sub>O to calibration line
 6. Mix solution by inverting the volumetric flask 
@@ -27,7 +27,7 @@ keypoints:
 ### B.Preparing Lentil Extract 
 1. If preparing lentil extract of more than one lentil genotype, ensure 50mL falcon test tubes are clearly labelled with corresponding genotypes.  
 2. Weigh 0.500g of lentil flour genotype into 50mL falcon test tube (triplicates of each lentil genotype was prepared). 
-3. Add 10mL of 0.1M NaPO4 to each 50mL falcon test tube 
+3. Add 10mL of 0.1M NaPO<sub>4</sub> to each 50mL falcon test tube 
 4. Use vortex mixer on auto speed 10 to thoroughly solubilize the pellet 
 5. Place in waterbath at room temperature (~24°C) for an hour 
 6. Filter extract using vacuum filter apparatus under water suction 
@@ -50,7 +50,7 @@ keypoints:
 ### A. Reagent Preparation: Preparing 16.5mL of 6 M GuHCl 
 1.	Using laboratory tape and a permanent marker, mark the day the solution was prepared, the concentration, and volume. Place onto 50mL falcon tube.  
 2.	To make 16.5mL of 6M GuHCl (for 21 test tubes aka 3 different lentil genotype extracts (both heated and unheated) and triplicate blanks): Weigh 9.1709g GuHCl 
-3.	Pipette ~4.0mL of 0.1M NaPO4 buffer (pH 7.5) into 9.1709g GuHCl and mix well, add slightly more NaPO4 for a final volume of 16.5mL
+3.	Pipette ~4.0mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) into 9.1709g GuHCl and mix well, add slightly more NaPO4 for a final volume of 16.5mL
 
 ### B.  Reagent Preparation: Preparing 15.0mL of 0.01M DTNB stock solution and 0.001M of DTNB (1:10x dilution) 
 10.	Mark the day the solution was prepared, the concentration, and the volume. Place onto 15 mL falcon tube.  
@@ -83,8 +83,8 @@ Where 650µL is total of protein extract and NaPO4 buffer according to (Mession,
 ## Determining Soluble Protein Concentration
 
 ### A. Preparation of Lentil Extract Sample Dilutions (1:100x)
-1. To prepare heated lentil extract dilution (1:100x): Pipette 10µL of heated lentil extract and 990µL of 0.1M NaPO4 buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different heated lentil extract genotypes
-2. To prepare unheated lentil extract dilution (1:100x): Pipette 10µL of unheated lentil extract and 990µL of 0.1M NaPO4 buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different unheated lentil extract genotypes
+1. To prepare heated lentil extract dilution (1:100x): Pipette 10µL of heated lentil extract and 990µL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different heated lentil extract genotypes
+2. To prepare unheated lentil extract dilution (1:100x): Pipette 10µL of unheated lentil extract and 990µL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) into clean 15mL falcon test tubes. Do the same for the remaining replicates and for different unheated lentil extract genotypes
 
 ### B. Preparation of BCA Working Reagent (WR)
 1. The following formula was used to determine the total volume of WR required: 
@@ -96,7 +96,7 @@ Where 650µL is total of protein extract and NaPO4 buffer according to (Mession,
 ### C. Experimental Test-Tube Procedure 
 1. Turn on the waterbath and set temperature to 37°C
 2. Pipette 100µL of lentil extract protein dilution (1:100x) for both unheated and heated versions into clean glass test tubes. 
-3. To create the blank, pipette 100µL of 0.1M NaPO4 buffer (pH 7.5) into clean glass test tube, create triplicates of the blank.
+3. To create the blank, pipette 100µL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) into clean glass test tube, create triplicates of the blank.
 4. Pipette 2.0 mL of WR into each glass test tube 
 5. Thoroughly mix the protein extract and WR by flicking the test tube back and forth with index finger.
 6. Place test tubes in waterbath and incubate test tubes at 37°C for 30mins
