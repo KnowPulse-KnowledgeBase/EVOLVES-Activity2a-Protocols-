@@ -19,9 +19,9 @@ keypoints:
 ### A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH
 2. To make 0.1M NaPO4: Weigh 1.1694g NaH2PO4 and 5.9181g NaHPO4 in a 300mL beaker
-3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH2O 
+3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH<sub>2</sub>O 
 4. Adjust pH=7.5 using 0.1N NaOH 
-5. Transfer solution into 250mL volumetric flask and fill dH2O to calibration line
+5. Transfer solution into 250mL volumetric flask and fill dH<sub>2</sub>O to calibration line
 6. Mix solution by inverting the volumetric flask 
 
 ### B.Preparing Lentil Extract 
@@ -32,9 +32,9 @@ keypoints:
 5. Place in waterbath at room temperature (~24°C) for an hour 
 6. Filter extract using vacuum filter apparatus under water suction 
 - Attach 125 mL sidearm flask to water suction tube 
-- Use Buchner funnel, 125mL sidearm flask, and Whatman #1 filter paper and ensure pre-wetting filter using dH2O 
+- Use Buchner funnel, 125mL sidearm flask, and Whatman #1 filter paper and ensure pre-wetting filter using dH<sub>2</sub>O 
 - Turn vacuum filter on by rotating it counterclockwise 1.5x 
-- Turn off vacuum filter after dH2O is collected in 125mL sidearm flask  
+- Turn off vacuum filter after dH<sub>2</sub>O  is collected in 125mL sidearm flask  
 - Turn back on vacuum filter by rotating it counterclockwise 1.5x
 - Pour lentil extract in Buchner funnel while vacuum filter is running and use 125mL sidearm flask to collect filtered extract 
 - Pour filtered extract into new 50mL falcon test tube
