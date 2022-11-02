@@ -50,12 +50,12 @@ keypoints:
 ### A. Reagent Preparation: Preparing 16.5mL of 6 M GuHCl 
 1.	Using laboratory tape and a permanent marker, mark the day the solution was prepared, the concentration, and volume. Place onto 50mL falcon tube.  
 2.	To make 16.5mL of 6M GuHCl (for 21 test tubes aka 3 different lentil genotype extracts (both heated and unheated) and triplicate blanks): Weigh 9.1709g GuHCl 
-3.	Pipette ~4.0mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) into 9.1709g GuHCl and mix well, add slightly more NaPO4 for a final volume of 16.5mL
+3.	Pipette ~4.0mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) into 9.1709g GuHCl and mix well, add slightly more NaPO<sub>4</sub> for a final volume of 16.5mL
 
 ### B.  Reagent Preparation: Preparing 15.0mL of 0.01M DTNB stock solution and 0.001M of DTNB (1:10x dilution) 
 10.	Mark the day the solution was prepared, the concentration, and the volume. Place onto 15 mL falcon tube.  
-11.	To make 15.0mL of 0.01M DTNB stock solution: Weigh 0.059454g of DTNB and dissolve in 15.0mL of 0.1M NaPO4 buffer (pH 7.5)
-12.	To make 2.20mL of 1:10x DTNB dilution: Pipette 220µL 0.01M DTNB stock solution and 1.98mL of 0.1M NaPO4 buffer (pH 7.5). This volume is suitable for more than 21 sample test tubes aka 3 different lentil genotype extracts (both heated and unheated) and triplicate blanks.  
+11.	To make 15.0mL of 0.01M DTNB stock solution: Weigh 0.059454g of DTNB and dissolve in 15.0mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5)
+12.	To make 2.20mL of 1:10x DTNB dilution: Pipette 220µL 0.01M DTNB stock solution and 1.98mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5). This volume is suitable for more than 21 sample test tubes aka 3 different lentil genotype extracts (both heated and unheated) and triplicate blanks.  
 13.	Mix thoroughly by flicking test tube back and forth with index finger
 
 ### C. Reaction Mixture Preparation 
