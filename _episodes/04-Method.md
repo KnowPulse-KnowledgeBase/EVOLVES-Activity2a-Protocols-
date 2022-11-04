@@ -1,6 +1,8 @@
 ---
 title: "Method "
 ---
+
+![Screenshot of main code listing](../fig/FreshExtractFreeSHSbleProteinProtocol071522_1.png)
 ![Screenshot of main code listing](../fig/1-Methods Obj_2 Activity (1).png)
 ![Screenshot of main code listing](../fig/2-Methods Obj_2 Activity (1).png)
 ![Screenshot of main code listing](../fig/3-Methods Obj_2 Activity (1).png)
