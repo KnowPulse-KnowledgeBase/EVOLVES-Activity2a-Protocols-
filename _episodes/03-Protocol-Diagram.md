@@ -1,5 +1,5 @@
 ---
-title: "Part 2:Preparing Lentil Extract, Determining Free Sulfhydryl (SH) and Soluble Protein Content "
+title: "Protocol Diagram "
 teaching: 
 exercises: 
 questions:
