@@ -14,7 +14,7 @@ keypoints:
 - ""
 ---
 
-## Preparing Standard Curves for Determining Free Sulfhydryl (SH) Concentration
+## 1. Preparing Standard Curves for Determining Free Sulfhydryl (SH) Concentration
 
 ### 1. A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH.
@@ -81,13 +81,13 @@ keypoints:
 
 *Figure 1.2: Example of [NAC] Standard Curve Equation Generated Using Microsoft Excel*
 
-## Preparing Standard Curves for Determining Soluble Protein Concentration
+## 2. Preparing Standard Curves for Determining Soluble Protein Concentration
 
 - Soluble Protein Concentration as determined according to [User Guide: Pierce BCA Protein Assay Kit](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/labs/ritchlin-lab/documents/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
 - Prepare dilution according to dilution scheme for enhanced test tube protocol using one Bovine Serum Albumin Standard (BSA) ampule.  
 ![Screenshot of main code listing](../fig/PART-1-figure1.3.png)
 
-### A.Preparation of Diluted Bovine Serum Albumin (BSA) Standards
+### 2.A.Preparation of Diluted Bovine Serum Albumin (BSA) Standards
 1. Collect 16 vials/test tubes (1 tube for A, replicates for B-F) and label the first test tube in each row A-F.
 2. Pipette corresponding diluent volumes in each test tube according to the dilution scheme for enhanced test tube protocol. The diluent used was 0.1M NaPO4 buffer (pH 7.5) 
 3. Pipette corresponding BSA volumes in each test tube. 
@@ -95,13 +95,13 @@ keypoints:
 5. Collect another 18 test tubes and label the first test tube in each row A1-F1.
 6. Pipette 100µL of blank and other standards (250µg/mL, 125µg/mL 50µg/mL, 25 µg/mL, 5µg/mL. Create duplicates of each BSA concentration. 
 
-### B. Preparation of BCA Working Reagent (WR)
+### 2.B. Preparation of BCA Working Reagent (WR)
 1. The following formula was used to determine the total volume of WR required: 
 (# standards + # unknowns) x (# replicates) x (volume of WR per sample) = total volume WR required 
 2. Pipette 2.0mL of WR for each sample in the test-tube procedure
 3. Mix WR and diluted Bovine Serum Albumin (BSA) Standards thoroughly by flicking test tube back and forth with index finger. 
 
-### C. Experimental Test-Tube Procedure
+### 2.C. Experimental Test-Tube Procedure
 1. Cover and incubate tubes at 37°C for 30mins in a water bath
 2. Cool all tubes to room temperature 
 3. Turn on spectrophotometer and set wavelength to 562nm. 
