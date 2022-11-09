@@ -3,9 +3,8 @@ title: "Part 2:Preparing Lentil Extract, Determining Free Sulfhydryl (SH) and So
 teaching: 
 exercises: 
 questions:
-- ""
-- ""
-- ""
+- "How to preparing lentil extract?"
+- "How to determining Free Sulfhydryl (SH) Concentration?"
 objectives:
 - ""
 keypoints:
