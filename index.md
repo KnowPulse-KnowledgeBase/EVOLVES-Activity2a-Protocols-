@@ -6,7 +6,7 @@ root: .
 title: "EVOLVES Activity 2a Protocols"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show protocols for analyses ____"
+short-purpose: "This lesson will show our new researchers some of the protocols we use "
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
