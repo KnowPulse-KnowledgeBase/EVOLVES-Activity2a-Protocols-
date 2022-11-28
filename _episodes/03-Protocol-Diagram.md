@@ -1,5 +1,5 @@
 ---
-title: "Protocol Diagram "
+title: "Preparing Fresh Lentil Extract: Refined Method"
 teaching: 
 exercises: 
 questions:
