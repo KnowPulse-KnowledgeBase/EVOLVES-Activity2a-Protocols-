@@ -4,7 +4,7 @@ title: "Method "
 
 
 ![Screenshot of main code listing](../fig/1-Methods.png)
-![Screenshot of main code listing](../fig/2-Methods.pngg)
+![Screenshot of main code listing](../fig/2-Methods.png)
 ![Screenshot of main code listing](../fig/3-Methods.png)
 ![Screenshot of main code listing](../fig/4-Methods.png)
 ![Screenshot of main code listing](../fig/5-Methods.png)
