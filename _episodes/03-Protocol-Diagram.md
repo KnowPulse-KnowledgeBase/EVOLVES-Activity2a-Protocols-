@@ -1,5 +1,5 @@
 ---
-title: "Prrotocol Diagrams"
+title: "Protocol Diagrams"
 teaching: 30mins 
 exercises: 30mins
 questions:
