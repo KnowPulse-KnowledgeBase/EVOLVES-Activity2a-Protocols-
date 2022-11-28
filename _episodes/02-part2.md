@@ -4,7 +4,7 @@ teaching:
 exercises: 
 questions:
 - "How to preparing lentil extract?"
-- "How to determining Free Sulfhydryl (SH) Concentration?"
+- "How to determining free sulfhydryl concentration?"
 objectives:
 - "Determining free sulfhydryl and soluble protein content in lentil extract"
 keypoints:
