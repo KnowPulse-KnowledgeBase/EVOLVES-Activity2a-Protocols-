@@ -1,6 +1,6 @@
 ---
 title: "Prrotocol Diagrams"
-teaching:30mins 
+teaching: 30mins 
 exercises: 30mins
 questions:
 - "How to preparing fresh lentil extract using refined method"
