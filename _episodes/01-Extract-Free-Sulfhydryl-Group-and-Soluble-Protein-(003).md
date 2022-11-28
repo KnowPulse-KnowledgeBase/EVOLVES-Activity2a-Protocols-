@@ -15,7 +15,7 @@ keypoints:
 
 ## 1. Preparing Standard Curves for Determining Free Sulfhydryl (SH) Concentration
 
-### 1. A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
+### 1. A. Reagent Preparation: Preparing 250mL of 0.1M NaPO<sub>4</sub> (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH.
 2. To make 0.1M NaPO4: Weigh 1.1694g NaH<sub>2</sub>PO<sub>4</sub> and 5.9181g NaHPO<sub>4</sub> in a 300mL beaker.
 3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH<sub>2</sub>O.
