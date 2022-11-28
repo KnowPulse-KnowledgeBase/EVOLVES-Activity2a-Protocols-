@@ -74,7 +74,7 @@ keypoints:
 ![Screenshot of main code listing](../fig/PART-1-figure1.1.jpg)
  
 *Figure 1.1: Example of data collected on Microsoft Excel of NAC Standard Curve*
-9. Select data of samples A412(nm) and samples A412 subtracted blan(nm) and use scatter plot graph. Add linear trendlines for absorbance values and display equation and R-squared values on chart.
+9. Select data of samples A<sub>412</sub>(nm) and samples A<sub>412</sub> subtracted blan(nm) and use scatter plot graph. Add linear trendlines for absorbance values and display equation and R-squared values on chart.
 
 ![Screenshot of main code listing](../fig/PART-1-figure1.2.jpg)
 
