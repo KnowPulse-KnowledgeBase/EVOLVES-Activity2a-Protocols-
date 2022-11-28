@@ -9,8 +9,7 @@ objectives:
 - "Determining free sulfhydryl and soluble protein content in lentil extract"
 keypoints:
 - "Always label the reagent solution"
-- ""
-- ""
+- "Clearly mark the lentil samples when dealing with multiple genotypes"
 ---
 
 ## 3.Preparing Lentil Extract
@@ -64,7 +63,7 @@ keypoints:
 4. Grab the lentil genotype extract both heated and unheated versions, and pipette 32.5µL of heated extract into corresponding test tubes. Then pipette 32.5µL of unheated extract into corresponding test tubes. Switch pipette tips between unheated and heated versions and different lentil genotype extracts. 
 650µL*(1 protein)/(20 NaPO<sub>4</sub> buffer)=32.5µL protein extract for each test tube 
 Where 650µL is total of protein extract and NaPO<sub>4</sub> buffer according to (Mession, Chihi, Sok, Saurel 2015). 
-5. Pipette 617µL of NaPO4 buffer into each test tube
+5. Pipette 617µL of NaPO<sub>4</sub> buffer into each test tube
 6. Mix reaction mixture thoroughly by flicking test tubes back and forth with index finger. 
 7. Incubate test tubes in dark at room temperature for 10min.
 8. Turn on spectrophotometer and set wavelength to 412nm. 
