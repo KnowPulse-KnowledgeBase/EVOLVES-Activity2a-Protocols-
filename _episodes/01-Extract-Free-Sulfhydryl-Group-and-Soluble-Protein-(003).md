@@ -8,9 +8,7 @@ questions:
 objectives:
 - ""
 keypoints:
-- ""
-- ""
-- ""
+- "Always label the reagent solution"
 ---
 
 ## 1. Preparing Standard Curves for Determining Free Sulfhydryl (SH) Concentration
