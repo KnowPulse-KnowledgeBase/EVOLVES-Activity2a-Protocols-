@@ -17,8 +17,8 @@ keypoints:
 
 ### 1. A. Reagent Preparation: Preparing 250mL of 0.1M NaPO4 (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH.
-2. To make 0.1M NaPO4: Weigh 1.1694g NaH2PO4 and 5.9181g NaHPO4 in a 300mL beaker.
-3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH2O.
+2. To make 0.1M NaPO4: Weigh 1.1694g NaH<sub>2</sub>PO<sub>4</sub> and 5.9181g NaHPO<sub>4</sub> in a 300mL beaker.
+3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH<sub>2</sub>O.
 4. Adjust pH=7.5 using 0.1N NaOH.
 5. Transfer solution into 250mL volumetric flask and fill dH2O to calibration line.
 6. Mix solution by inverting the volumetric flask.  
