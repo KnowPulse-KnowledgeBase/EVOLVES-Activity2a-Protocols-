@@ -3,8 +3,8 @@ title: "Part 1: Preparing Standard Curves for Determining Free Sulfhydryl (SH) a
 teaching: 
 exercises: 
 questions:
-- "How to preparing Standard Curves for determining Free Sulfhydryl (SH) Concentration?"
-- "How to preparing Standard Curves for determining Soluble Protein Concentration?"
+- "How to preparing standard curves for determining free sulfhydryl concentration?"
+- "How to preparing standard curves for determining soluble protein concentration?"
 objectives:
 - ""
 keypoints:
