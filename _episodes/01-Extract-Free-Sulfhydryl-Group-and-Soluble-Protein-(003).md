@@ -18,15 +18,15 @@ keypoints:
 ### 1. A. Reagent Preparation: Preparing 250mL of 0.1M NaPO<sub>4</sub> (pH 7.5)
 1. Mark the day the solution was prepared, the concentration and the pH.
 2. To make 0.1M NaPO4: Weigh 1.1694g NaH<sub>2</sub>PO<sub>4</sub> and 5.9181g NaHPO<sub>4</sub> in a 300mL beaker.
-3. Dissolve NaH2PO4 and NaHPO4 using approximately 200mL dH<sub>2</sub>O.
+3. Dissolve NaH2PO<sub>4</sub> and NaHPO<sub>4</sub> using approximately 200mL dH<sub>2</sub>O.
 4. Adjust pH=7.5 using 0.1N NaOH.
-5. Transfer solution into 250mL volumetric flask and fill dH2O to calibration line.
+5. Transfer solution into 250mL volumetric flask and fill dH<sub>2</sub>O to calibration line.
 6. Mix solution by inverting the volumetric flask.  
 
 ### 1. B. Reagent Preparation: Preparing 12.0mL of 6 M GuHCl 
 1. Mark the day the solution was prepared, the concentration, and volume onto laboratory tape and place in 50 mL falcon test tube.
 2. Weigh 6.8782 g of GuHCl and place into 50mL falcon test tube. 
-3. Add 6.30 mL of 0.1M NaPO4 buffer (pH 7.5) and dissolve GuHCl to obtain a final volume of 12.0mL.
+3. Add 6.30 mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5) and dissolve GuHCl to obtain a final volume of 12.0mL.
 
 ### 1. C. Reagent Preparation: Preparing 15.0mL of 0.01M DTNB stock solution and 0.001M of DTNB (1:10x dilution)
 1. Mark the day the solution was prepared, the concentration, and the volume. Place onto 15 mL falcon tube.
