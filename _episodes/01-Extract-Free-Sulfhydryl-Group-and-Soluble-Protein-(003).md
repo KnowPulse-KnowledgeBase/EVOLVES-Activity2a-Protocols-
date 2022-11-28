@@ -30,8 +30,8 @@ keypoints:
 
 ### 1. C. Reagent Preparation: Preparing 15.0mL of 0.01M DTNB stock solution and 0.001M of DTNB (1:10x dilution)
 1. Mark the day the solution was prepared, the concentration, and the volume. Place onto 15 mL falcon tube.
-2. To make 15.0mL of 0.01M DTNB stock solution: Weigh 0.059454 g of DTNB and dissolve in 15.0mL of 0.1M NaPO4 buffer (pH 7.5). Mix thoroughly.
-3. To make 2.00 mL of 1:10x DTNB dilution: Pipette 200µL 0.01M DTNB stock solution and 1.80mL of 0.1M NaPO4 buffer (pH 7.5). This volume is suitable for more than 15 sample test tubes. Mix thoroughly.
+2. To make 15.0mL of 0.01M DTNB stock solution: Weigh 0.059454 g of DTNB and dissolve in 15.0mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5). Mix thoroughly.
+3. To make 2.00 mL of 1:10x DTNB dilution: Pipette 200µL 0.01M DTNB stock solution and 1.80mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5). This volume is suitable for more than 15 sample test tubes. Mix thoroughly.
 
 ### 1. D. Reagent Preparation: Preparing 0.1 M of 10.0 mL N-acetylcysteine (NAC) and 0.5mL of 0.001M NAC (1:100x dilution) 
 1. To make 0.1M of 10.0mL N-acetylcysteine: Weigh 0.16319g of NAC and 10.0mL of 0.1M NaPO4 buffer (pH 7.5).
