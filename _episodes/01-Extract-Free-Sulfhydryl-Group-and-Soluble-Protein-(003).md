@@ -1,7 +1,7 @@
 ---
 title: "Part 1: Preparing Standard Curves for Determining Free Sulfhydryl (SH) and Soluble Protein"
-teaching: 30 mins
-exercises: 30 mins
+teaching: 30
+exercises: 30
 questions:
 - "How to prepare standard curves for determining free sulfhydryl concentration?"
 - "How to prepare standard curves for determining soluble protein concentration?"
