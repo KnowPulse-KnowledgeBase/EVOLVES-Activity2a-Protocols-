@@ -3,12 +3,12 @@ title: "Part 1: Preparing Standard Curves for Determining Free Sulfhydryl (SH) a
 teaching: 30 mins
 exercises: 30 mins
 questions:
-- "How to preparing standard curves for determining free sulfhydryl concentration?"
-- "How to preparing standard curves for determining soluble protein concentration?"
+- "How to prepare standard curves for determining free sulfhydryl concentration?"
+- "How to prepare standard curves for determining soluble protein concentration?"
 objectives:
-- ""
+- "Learn the process of preparing standard curves for determining free sulfhydryl concentration and soluble protein concentration"
 keypoints:
-- "Always label the reagent solution"
+- "Always remember to label your reagent"
 ---
 
 ## 1. Preparing Standard Curves for Determining Free Sulfhydryl (SH) Concentration
