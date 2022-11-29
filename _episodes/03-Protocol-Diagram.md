@@ -1,7 +1,7 @@
 ---
 title: "Protocol Diagrams"
-teaching: 30mins 
-exercises: 30mins
+teaching: 30 
+exercises: 30
 questions:
 - "How to preparing fresh lentil extract using refined method?"
 - "How to determining free sulfhydryl(SH) concentration?"
