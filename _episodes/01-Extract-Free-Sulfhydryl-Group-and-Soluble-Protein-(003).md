@@ -6,7 +6,7 @@ questions:
 - "How to prepare standard curves for determining free sulfhydryl concentration?"
 - "How to prepare standard curves for determining soluble protein concentration?"
 objectives:
-- "Learn the process of preparing standard curves for determining free sulfhydryl concentration and soluble protein concentration"
+- "Learn the preparing process of standard curves for determining free sulfhydryl concentration and soluble protein concentration"
 keypoints:
 - "Always remember to label your reagent"
 ---
