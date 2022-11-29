@@ -7,7 +7,7 @@ questions:
 - "How to determining free sulfhydryl(SH) concentration?"
 - "How to determining soluble protein concentation?"
 objectives:
-- "Show the process for the three protocols in diagram"
+- "Show the all the preparing and determining processes in diagrams"
 keypoints:
 - ""
 - ""
