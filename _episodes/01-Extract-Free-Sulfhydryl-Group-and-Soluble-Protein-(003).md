@@ -32,7 +32,7 @@ keypoints:
 3. To make 2.00 mL of 1:10x DTNB dilution: Pipette 200µL 0.01M DTNB stock solution and 1.80mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5). This volume is suitable for more than 15 sample test tubes. Mix thoroughly.
 
 ### 1. D. Reagent Preparation: Preparing 0.1 M of 10.0 mL N-acetylcysteine (NAC) and 0.5mL of 0.001M NAC (1:100x dilution) 
-1. To make 0.1M of 10.0mL N-acetylcysteine: Weigh 0.16319g of NAC and 10.0mL of 0.1M NaPO4 buffer (pH 7.5).
+1. To make 0.1M of 10.0mL N-acetylcysteine: Weigh 0.16319g of NAC and 10.0mL of 0.1M NaPO<sub>4</sub> buffer (pH 7.5).
 2. To make 0.001M of 0.5mL N-acetylcysteine: Pipette 5.0µL of 0.1M of 10.0mL NAC stock solution and 495µL of 0.1M NaPO4 buffer (pH 7.5).
 
 ### 1. E. Reaction Mixture Preparation
