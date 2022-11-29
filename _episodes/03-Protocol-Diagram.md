@@ -8,10 +8,6 @@ questions:
 - "How to determining soluble protein concentation?"
 objectives:
 - "Show the all the preparing and determining processes in diagrams"
-keypoints:
-- ""
-- ""
-- ""
 ---
 
 ![Screenshot of main code listing](../fig/FreshExtractFreeSHSbleProteinProtocol071522_1.png)
