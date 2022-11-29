@@ -86,7 +86,7 @@ keypoints:
 
 ### 2.A.Preparation of Diluted Bovine Serum Albumin (BSA) Standards
 1. Collect 16 vials/test tubes (1 tube for A, replicates for B-F) and label the first test tube in each row A-F.
-2. Pipette corresponding diluent volumes in each test tube according to the dilution scheme for enhanced test tube protocol. The diluent used was 0.1M NaPO4 buffer (pH 7.5) 
+2. Pipette corresponding diluent volumes in each test tube according to the dilution scheme for enhanced test tube protocol. The diluent used was 0.1M NaPO<sub>4</sub> buffer (pH 7.5) 
 3. Pipette corresponding BSA volumes in each test tube. 
 4. Mix diluent and BSA standard thoroughly by flicking test tube back and forth with index finger
 5. Collect another 18 test tubes and label the first test tube in each row A1-F1.
@@ -103,7 +103,7 @@ keypoints:
 2. Cool all tubes to room temperature 
 3. Turn on spectrophotometer and set wavelength to 562nm. 
 4. Record blank absorbance values first at 562nm. Then record absorbance of any other standard. Subtract the average 562nm absorbance measurements of the Blank standard replicates from absorbance values of all other unknown sample replicates  
-5. Select the data of all samples A562(nm) and A562 subtracted blank(nm) and use scatter plot graph. Add linear trendlines and display equation and R-squared values on chart.
+5. Select the data of all samples A<sub>562</sub>(nm) and A<sub>562</sub> subtracted blank(nm) and use scatter plot graph. Add linear trendlines and display equation and R-squared values on chart.
 ![Screenshot of main code listing](../fig/PART-1-figure.2.1.png)
 
 *Figure 2.1: Example of data collected on Microsoft Excel of BSA Soluble Protein Standard Curve, Trial #1*
