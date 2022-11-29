@@ -21,10 +21,10 @@ why: "This lesson is providing some essential laboratory protocols to guide new 
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to preparing Standard Curves for determining Free Sulfhydryl (SH) Concentration"
-- "How to preparing Standard Curves for determining Soluble Protein Concentration"
-- "How to preparing Lentil Extract"
-- "How to determining Free Sulfhydryl (SH) Concentration"
+- "How to prepare Standard Curves for determining Free Sulfhydryl (SH) Concentration"
+- "How to prepare Standard Curves for determining Soluble Protein Concentration"
+- "How to prepare Lentil Extract"
+- "How to determine Free Sulfhydryl (SH) Concentration"
 
 data-description: "Lentil"
 ---
