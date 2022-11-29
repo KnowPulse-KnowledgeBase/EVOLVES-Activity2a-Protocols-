@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Determining free sulfhydryl and soluble protein content in lentil extract"
 keypoints:
-- "Always label the reagent solution"
+- "Always remember to label your reagent"
 - "Clearly mark the lentil samples when dealing with multiple genotypes"
 ---
 
