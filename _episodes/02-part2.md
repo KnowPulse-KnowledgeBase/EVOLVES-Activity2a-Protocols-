@@ -1,7 +1,7 @@
 ---
 title: "Part 2: Preparing Lentil Extract, Determining Free Sulfhydryl (SH) and Soluble Protein Content "
-teaching: 30 mins
-exercises: 30 mins
+teaching: 30 
+exercises: 30 
 questions:
 - "How to prepare lentil extract?"
 - "How to determine free sulfhydryl concentration?"
